@@ -12,3 +12,7 @@
 3.Calculate Food Purchased
 4.Show total cost
 5.EXIT
+
+
+
+![HOTEL DEMO](https://user-images.githubusercontent.com/71262550/153016153-f4faaedf-866c-4a06-b5c9-55e50efe693b.gif)
